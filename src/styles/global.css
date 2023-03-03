@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+div .css-16tvzsd-MuiStack-root>:not(style)+:not(style) {
+  margin: 0;
+}
